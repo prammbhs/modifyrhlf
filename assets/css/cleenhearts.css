@@ -22629,6 +22629,35 @@ body.boxed-wrapper .main-header__cart {
 }
 /*# sourceMappingURL=cleenhearts.css.map */
 
+/* #payment*/
+body {
+  font-family: Arial, sans-serif;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  position: relative;
+}
+
+.bottom-footer_paymentCards__3-Nha {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.bottom-footer_paymentCards__3-Nha img {
+  width: 50px;
+  height: 30px; /* Ensures all images are the same size */
+  margin-left: 10px;
+  object-fit: contain; /* Maintains aspect ratio */
+}
+
+
+
 /*---------------------------------------------------------
 # Campaign impact section
 ---------------------------------------------------------*/
