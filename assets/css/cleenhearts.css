@@ -1308,7 +1308,7 @@ textarea {
 
 .preloader {
   position: fixed;
-  background-color: var(--cleenhearts-dark, #24102F);
+  background-color: var(--cleenhearts-white, #FFFFFF);
   background-position: center center;
   background-repeat: no-repeat;
   top: 0;
